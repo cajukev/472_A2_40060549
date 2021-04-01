@@ -1,0 +1,36 @@
+Depth First Search
+Total Search Path: 5
+Average Search Path: 5.0
+Total Solution Path: 3
+Average Solution Path: 3.0
+No Solution: 0
+Total Solution Time: 0.000989675521850586
+Average Solution Time: 0.000989675521850586
+
+Iterative Depth First Search
+Total Search Path: 103
+Average Search Path: 103.0
+Total Solution Path: 3
+Average Solution Path: 3.0
+No Solution: 0
+Total Solution Time: 0.052001953125
+Average Solution Time: 0.052001953125
+
+A* h1 Search
+Total Search Path: 5
+Average Search Path: 5.0
+Total Solution Path: 3
+Average Solution Path: 3.0
+No Solution: 0
+Total Solution Time: 0.03400278091430664
+Average Solution Time: 0.03400278091430664
+
+A* h2 Search
+Total Search Path: 4
+Average Search Path: 4.0
+Total Solution Path: 3
+Average Solution Path: 3.0
+No Solution: 0
+Total Solution Time: 0.001999378204345703
+Average Solution Time: 0.001999378204345703
+
